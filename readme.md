@@ -14,6 +14,6 @@ A simple, lightweight X11-based window manager and desktop environment for Linux
 - Only tested on ubuntu.
 - Start menu support will be fixed later.
 
-  ## Contibution
+## Contibution
 
 - Submit a pull request. upon submitting a merge request, please state what you changed
